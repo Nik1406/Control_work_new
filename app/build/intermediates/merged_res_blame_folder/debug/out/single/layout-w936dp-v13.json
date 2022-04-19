@@ -1,6 +1,10 @@
 [
     {
-        "merged": "D:\\Android_Studio\\Control_work\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-w936dp-v13\\activity_login.xml",
-        "source": "D:\\Android_Studio\\Control_work\\app\\src\\main\\res\\layout-w936dp\\activity_login.xml"
+        "merged": "D:\\Local.rep\\A-Studio\\Control_work\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-w936dp-v13\\activity_main0.xml",
+        "source": "D:\\Local.rep\\A-Studio\\Control_work\\app\\src\\main\\res\\layout-w936dp\\activity_main0.xml"
+    },
+    {
+        "merged": "D:\\Local.rep\\A-Studio\\Control_work\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-w936dp-v13\\activity_main.xml",
+        "source": "D:\\Local.rep\\A-Studio\\Control_work\\app\\src\\main\\res\\layout-w936dp\\activity_main.xml"
     }
 ]

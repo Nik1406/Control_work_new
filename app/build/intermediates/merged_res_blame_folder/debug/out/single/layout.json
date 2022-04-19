@@ -1,14 +1,26 @@
 [
     {
-        "merged": "D:\\Android_Studio\\Control_work\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
-        "source": "D:\\Android_Studio\\Control_work\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\Local.rep\\A-Studio\\Control_work\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main_1.xml",
+        "source": "D:\\Local.rep\\A-Studio\\Control_work\\app\\src\\main\\res\\layout\\activity_main_1.xml"
     },
     {
-        "merged": "D:\\Android_Studio\\Control_work\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main2.xml",
-        "source": "D:\\Android_Studio\\Control_work\\app\\src\\main\\res\\layout\\activity_main2.xml"
+        "merged": "D:\\Local.rep\\A-Studio\\Control_work\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main1.xml",
+        "source": "D:\\Local.rep\\A-Studio\\Control_work\\app\\src\\main\\res\\layout\\activity_main1.xml"
     },
     {
-        "merged": "D:\\Android_Studio\\Control_work\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
-        "source": "D:\\Android_Studio\\Control_work\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "D:\\Local.rep\\A-Studio\\Control_work\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main_0.xml",
+        "source": "D:\\Local.rep\\A-Studio\\Control_work\\app\\src\\main\\res\\layout\\activity_main_0.xml"
+    },
+    {
+        "merged": "D:\\Local.rep\\A-Studio\\Control_work\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main0.xml",
+        "source": "D:\\Local.rep\\A-Studio\\Control_work\\app\\src\\main\\res\\layout\\activity_main0.xml"
+    },
+    {
+        "merged": "D:\\Local.rep\\A-Studio\\Control_work\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main2.xml",
+        "source": "D:\\Local.rep\\A-Studio\\Control_work\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "D:\\Local.rep\\A-Studio\\Control_work\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main_2.xml",
+        "source": "D:\\Local.rep\\A-Studio\\Control_work\\app\\src\\main\\res\\layout\\activity_main_2.xml"
     }
 ]

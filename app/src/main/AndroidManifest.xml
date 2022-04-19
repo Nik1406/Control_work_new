@@ -10,14 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Control_work">
         <activity
-            android:name=".MainActivity_2"
-            android:exported="false" />
-        <activity
-            android:name=".ui.login.LoginActivity"
+            android:name=".MainActivity_1"
             android:exported="false"
             android:label="@string/title_activity_login" />
         <activity
-            android:name=".MainActivity_1"
+            android:name=".MainActivity_0"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

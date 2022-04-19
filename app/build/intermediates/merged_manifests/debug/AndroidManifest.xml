@@ -19,14 +19,11 @@
         android:testOnly="true"
         android:theme="@style/Theme.Control_work" >
         <activity
-            android:name="com.example.control_work.MainActivity_2"
-            android:exported="false" />
-        <activity
-            android:name="com.example.control_work.ui.login.LoginActivity"
+            android:name="com.example.control_work.MainActivity_1"
             android:exported="false"
             android:label="@string/title_activity_login" />
         <activity
-            android:name="com.example.control_work.MainActivity_1"
+            android:name="com.example.control_work.MainActivity_0"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

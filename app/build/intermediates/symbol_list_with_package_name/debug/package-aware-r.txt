@@ -2606,7 +2606,7 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
-id button
+id button1
 id button2
 id button3
 id button4
@@ -2614,6 +2614,7 @@ id button5
 id button6
 id button7
 id button8
+id buttonAuth
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -2693,7 +2694,10 @@ id easeIn
 id easeInOut
 id easeOut
 id east
-id editTextTextPersonName
+id editTextLogin
+id editTextPassword
+id editTextTextPersonName1
+id editTextTextPersonName2
 id edit_query
 id elastic
 id end
@@ -2763,8 +2767,6 @@ id linearLayout3
 id linearLayout4
 id listMode
 id list_item
-id loading
-id login
 id masked
 id match_constraint
 id match_parent
@@ -2851,7 +2853,6 @@ id parent
 id parentPanel
 id parentRelative
 id parent_matrix
-id password
 id password_toggle
 id path
 id pathRelative
@@ -2988,7 +2989,6 @@ id uniform
 id unlabeled
 id up
 id useLogo
-id username
 id vertical_only
 id view_offset_helper
 id view_transition
@@ -3091,9 +3091,10 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
-layout activity_login
 layout activity_main
-layout activity_main2
+layout activity_main0
+layout activity_main_0
+layout activity_main_1
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
