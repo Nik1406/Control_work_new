@@ -58,10 +58,10 @@ public class MainActivity_1 extends AppCompatActivity {
 
             }
         });
-        checkBox.setText("вариант ответа №1");
-        checkBox2.setText("вариант ответа №2");
-        checkBox3.setText("вариант ответа №3");
-        checkBox4.setText("вариант ответа №4");
+        checkBox.setText("Необходимо устроиться на работу ... грузчиком");
+        checkBox2.setText("Необходимо много думать и практиковаться");
+        checkBox3.setText("Никак");
+        checkBox4.setText("Купить диплом в подземном переходе");
         checkBox5.setText("вариант ответа №5");
 
         button6 = findViewById(R.id.button6);
@@ -69,7 +69,6 @@ public class MainActivity_1 extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Toast.makeText(getBaseContext(),"Нажата кнопка Следующий вопрос",Toast.LENGTH_LONG).show();
-
             }
         });
 
