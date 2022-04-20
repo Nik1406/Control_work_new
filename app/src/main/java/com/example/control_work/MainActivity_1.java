@@ -2,6 +2,7 @@ package com.example.control_work;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -9,7 +10,7 @@ import android.widget.CheckBox;
 import android.widget.Toast;
 
 public class MainActivity_1 extends AppCompatActivity {
-    Button button1, button2, button3, button4, button5, button8, button6;
+    Button button1, button2, button3, button4, button5, button6, button7, button8;
     CheckBox checkBox, checkBox2,checkBox3,checkBox4,checkBox5;
     android.widget.TextView TextView;
 
@@ -72,8 +73,8 @@ public class MainActivity_1 extends AppCompatActivity {
             }
         });
 
-        button8 = findViewById(R.id.button7); //Отлавливаем кнопки в коде
-        button8.setOnClickListener(new View.OnClickListener() {
+        button7 = findViewById(R.id.button7); //Отлавливаем кнопки в коде
+        button7.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Toast.makeText(getBaseContext(),"Нажата кнопка Ответить",Toast.LENGTH_LONG).show();
@@ -84,7 +85,7 @@ public class MainActivity_1 extends AppCompatActivity {
         button8.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(getBaseContext(),"Нажата кнопка Предыдущий вопрос",Toast.LENGTH_LONG).show();
+                Toast.makeText(getBaseContext(),"Нажата кнопка предыдущий вопрос",Toast.LENGTH_LONG).show();
             }
         });
 

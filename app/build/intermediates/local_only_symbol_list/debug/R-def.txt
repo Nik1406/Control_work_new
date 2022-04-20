@@ -35,6 +35,7 @@ id linearLayout3
 id linearLayout4
 layout activity_main_0
 layout activity_main_1
+layout activity_main_2
 mipmap ic_launcher
 mipmap ic_launcher_round
 string action_sign_in

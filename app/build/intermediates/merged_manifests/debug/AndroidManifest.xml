@@ -23,6 +23,10 @@
             android:exported="false"
             android:label="@string/title_activity_login" />
         <activity
+            android:name="com.example.control_work.MainActivity_2"
+            android:exported="false"
+            android:label="@string/title_activity_login" />
+        <activity
             android:name="com.example.control_work.MainActivity_0"
             android:exported="true" >
             <intent-filter>
